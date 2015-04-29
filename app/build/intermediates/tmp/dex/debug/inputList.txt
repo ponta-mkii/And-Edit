@@ -1,0 +1,2 @@
+C:\Users\crea\AndroidStudioProjects\And-Edit\app\build\intermediates\classes\debug
+C:\Users\crea\AndroidStudioProjects\And-Edit\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-3626930b7c6ab0d248ae4672a51b8283ea160e91.jar
